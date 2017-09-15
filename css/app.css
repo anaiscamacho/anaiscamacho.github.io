@@ -1,0 +1,114 @@
+/*
+General
+*/
+.wrap{
+  width: 93%;
+  margin: auto;
+}
+
+
+
+/*
+Navigation
+*/
+.top-bar{
+  background-image: url(../images/sprinkles.png);
+}
+.top-bar ul{
+  background-color: transparent;
+  border-style: none;
+}
+.top-bar li{
+  background-image: url(../images/sprinkles.png);
+}
+.top-bar h4, .top-bar a{
+  color: black;
+  font-weight: bold;
+  font-family: 'Abel', sans-serif;
+}
+.top-bar a{
+  font-size: 20px;
+}
+/*
+Header
+*/
+.orbit img{
+  max-height: 24em;
+}
+.header{
+  background-color: transparent;
+}
+.header p{
+  width: 80%;
+  margin: auto;
+  padding: 3em;
+}
+
+
+/*
+Main
+*/
+.main{
+  padding-top: 2em;
+}
+.main h3{
+  font-family: 'Lora', serif;
+  font-size: 27px;
+  font-weight: bold;
+  text-align: center;
+}
+.main p{
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  text-align: center;
+}
+.main img{
+  max-height: 20em;
+}
+.Main{
+  padding-top: 2em;
+}
+.Main h3{
+  font-family: 'Lora', serif;
+  font-size: 27px;
+  font-weight: bold;
+  text-align: center;
+}
+.Main p{
+  font-family: 'Lora', serif;
+  font-size: 22px;
+  text-align: center;
+}
+.Main img{
+  max-height: 4em;
+}
+/*
+Footer
+*/
+.footer{
+  text-align: center;
+  color: black;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-image: url(../images/sprinkles.png);
+  }
+
+.footer h3{
+  color: black;
+  text-align: center;
+}
+
+.footer a{
+  color: black;
+}
+
+.footer img{
+  height: 3em;
+  width: 3em;
+}
+
+.footer h4{
+  text-align: center;
+  text-decoration: none;
+  font-weight: normal;
+}
